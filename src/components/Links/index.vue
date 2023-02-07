@@ -46,17 +46,17 @@ let linksData = [
   {
     icon: Blog,
     name: "博客",
-    link: "https://blog.imsyy.top/",
+    link: "https://blog.nbplus.eu.org/",
   },
   {
     icon: Cloud,
     name: "网盘",
-    link: "https://pan.imsyy.top/",
+    link: "https://onedrive.nbplus.eu.org/",
   },
   {
     icon: CompactDisc,
-    name: "音乐",
-    link: "https://music.imsyy.top/",
+    name: "状态",
+    link: "https://status.nbplus.eu.org/",
   },
   {
     icon: Compass,
@@ -65,8 +65,8 @@ let linksData = [
   },
   {
     icon: Book,
-    name: "网址集",
-    link: "https://web.imsyy.top/",
+    name: "周报",
+    link: "https://zhoubao.nbplus.eu.org/",
   },
   {
     icon: Flask,
