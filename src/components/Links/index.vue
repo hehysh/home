@@ -60,8 +60,8 @@ let linksData = [
   },
   {
     icon: Compass,
-    name: "起始页",
-    link: "https://nav.imsyy.top/",
+    name: "关于",
+    link: "https://about.nbplus.eu.org/",
   },
   {
     icon: Book,
